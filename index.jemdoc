@@ -1,0 +1,56 @@
+# jemdoc: notime
+# jemdoc: title{Homepage}
+# jemdoc: nofooter
+{{<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138769607-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-138769607-2');
+</script>
+}}
+{{<div id="toptitle"><h1>Xu Lei</h1></h1></div>}}
+{{<div><img style="float:right" img src="pic/me.jpg" border="0" width="280"></div>}}
+=== PhD Student
+
+Signal Processing Lab
+\n Electronic Information School
+\n Wuhan University
+\n Wuhan, 430072, China
+\n\n Email: leixuchn@whu.edu.cn
+\n or Gmail: chnleixu@gmail.com
+\n Research interests: visual tracking, meta learning, video analysis
+
+
+== Biography
+Welcome to the academic page of Xu Lei.
+\n\n I am currently a first year (Sep 2019 - June 2020) PhD in Engineering student in the [http://eis.whu.edu.cn/indexone.shtml School of Electronic Information] of [https://en.whu.edu.cn/ Wuhan University] , a top 10 university of China ([https://en.wikipedia.org/wiki/Wuhan_University Wiki]). I am expected to graduate in June, 2023. I major in Information and Communication Engineering. I am supervised by [https://scholar.google.com/citations?hl=zh-CN&user=-aVL-UQAAAAJ Prof. Wen Yang], and co-supervised by [http://captain.whu.edu.cn/xia_en.html Prof. Guisong Xia]. I also received the B. Eng degree from the School of Software Engineering in Huazhong University of Sicence and Technology in 2017 (GPA:3.7\/4.0, rank: 15th\/160).
+\n\n My research lies at video analysis, especially visual tracking. I also have experience in robertics vision, including UAV and robocar application. Recently, I am working on visual tracking methods for vedio analysis. 
+
+== News
+- \[07/2017\] Awarded the title of Outstanding Graduates.
+- \[06/2017\] Got graduation thesis as the excellent graduation thesis of Hubei Province
+- \[11/2018\] Got the *China National Scholarship!* Top 0.5%, Best honor for graduate students in China.
+- \[11/2018\] Got the *First-class Academic Scholarship*.
+
+
+== Experience
+- {{<div style="float:left; text-align:left">}}Signal Processing Lab of Wuhan University, Wuhan, China{{</div>}}  {{<div style="float:right; text-align:right">}}Oct 2016 - Present{{</div>}}
+\n Research Assistant \n Advisor: Prof. Wen Yang \n Topic: visual tracking
+- {{<div style="float:left; text-align:left">}}Wuhan University, Wuhan, China{{</div>}}  {{<div style="float:right; text-align:right">}}June 2018{{</div>}}
+\n Teaching Assistant for class: Machine Learning and Big Data \n Advisor: [https://www.dsi.unive.it/~pelillo/ Prof. Marcello Pelillo], IEEE Fellow, AE of TPAMI
+
+== Selected Competitions
+. Ranked 4th nationally, Building Extraction Track of High-resolution Remote Sensing Image Interpretation Contest, 2018
+. Ranked 6th internationally, [https://www.robomaster.com/en-US/resource/pages/682?type=announcementSub The International Conference on Robotics and Automation (*ICRA*) RoboMaster Mobile Manipulation Challenge], 2017
+. Top 10 internationally, [http://www.imavs.org/2017/index.html@p=582.html The International Micro Air Vehicles, Conferences and Competitions (*IMAV*) Outdoor Competition], 
+
+== Selected Awards
+. *China National Scholarship*, Top 0.5%, Best award for students in China, 2019
+. *First-class Academic Scholarship*, Ranked 8nd/500+, 2019
+. [https://www.chsi.com.cn/en/news/201307/20130719/443753667.html Postgraduate exam-free recommendation], Ranked 15th/160, 2016
+
+
+
